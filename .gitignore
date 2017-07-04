@@ -54,3 +54,5 @@ dkms.conf
 
 # Editor files
 *.c~
+/.\#kilo.c
+/\#kilo.c\#
